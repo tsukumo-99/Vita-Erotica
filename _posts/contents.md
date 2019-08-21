@@ -80,8 +80,8 @@ categories: 「乳首开发方法」翻译
 
 ## 4.2 一些乳首开发的问题的解决
 
-- 分离乳首快感与射精感的方法
-- 关于不能达到高潮的建议
+- [分离乳首快感与射精感的方法](https://qxzh.github.io/separation/)
+- [关于不能达到高潮的建议](https://qxzh.github.io/troubleshooting/)
 
 # 5 与乳首有关的资源
 

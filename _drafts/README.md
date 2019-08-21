@@ -1,3 +1,7 @@
+---
+title: readme
+---
+
 # Vita-Erotica: collaborative Wiki focused on sexology
 
 # 一、文件结构
@@ -16,6 +20,24 @@
 
 - 如果您希望提交成品的博文，请在 `/_posts` 中修改；
 - 如果您希望提交半成品的博文，请在 `/_drafts` 中修改。
+
+如果您并不熟悉 Git、Github 以及 Markdown 的使用方式，您可以参考以下的介绍：
+
+----
+
+## 1 注册 Github 帐号并 Fork 本仓库
+
+## 2 下载 Github Desktop
+
+## 3 Clone 本仓库到本地
+
+## 4 用 Markdown 编辑器编辑 `.md` 文件
+
+## 5 提交 Commit
+
+## 6 提交 Pull Request
+
+## 7 从本仓库拉取更新
 
 # 三、计划
 

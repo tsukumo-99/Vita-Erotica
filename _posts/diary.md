@@ -150,3 +150,10 @@ categories: 「乳首开发方法」翻译
 
 翻译 # 3.3.2 [玩具「U. F. O.」和「U. F. O. SA」的评价](https://qxzh.github.io/ufo_comments/) （建议已经可以乳首高潮的肥肥们体验哦）
 
+# 2019 年 7 月 29 日｜Day 36
+
+翻译 # 3.3.1 [利用「U. F. O.」进行乳首自慰的方法](https://qxzh.github.io/ufo_methods/)
+
+翻译 # 4.2.1 [分离乳首快感与射精感的方法](https://qxzh.github.io/separation/)
+
+翻译 # 4.2.2 [关于不能达到高潮的建议](https://qxzh.github.io/troubleshooting/)
